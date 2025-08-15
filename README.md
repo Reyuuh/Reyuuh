@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I am inti!
+I am currently studying web development with a focus on e-commerce at Medieinstitutet.
 <!--
 **Reyuuh/Reyuuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 
 -->
+Tech stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
+The technology I'm currently learning about!
 ![](https://github-readme-stats.vercel.app/api?username=Reyuuh&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Reyuuh&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyuuh&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
