@@ -21,6 +21,8 @@ I am currently studying web development with a focus on e-commerce at **Medieins
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://nirzak-streak-stats.vercel.app/?user=Reyuuh&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyuuh&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### 📚 Currently Learning
@@ -32,5 +34,3 @@ I am currently studying web development with a focus on e-commerce at **Medieins
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Reyuuh&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Reyuuh&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyuuh&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
